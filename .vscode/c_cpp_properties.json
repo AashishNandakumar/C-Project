@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+
+        "C:\\Users\\Aashish Nandakumar\\Desktop\\VSC Code files\\C-Project",
+        "C:\\Users\\Aashish Nandakumar\\Desktop\\VSC Code files\\C-Project\\1_Client",
+        "C:\\Users\\Aashish Nandakumar\\Desktop\\VSC Code files\\C-Project\\2_RSA",
+        "C:\\Users\\Aashish Nandakumar\\Desktop\\VSC Code files\\C-Project\\2_Wallet",
+        "C:\\Users\\Aashish Nandakumar\\Desktop\\VSC Code files\\C-Project\\3_Blockchain",
+        "C:\\Users\\Aashish Nandakumar\\Desktop\\VSC Code files\\C-Project\\4_Cloud"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "C:\\Program Files (x86)\\MinGW\\bin\\gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "windows-gcc-x86"
+    }
+  ],
+  "version": 4
+}
